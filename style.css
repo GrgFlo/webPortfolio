@@ -1,0 +1,6 @@
+#navbarSupportedContent {
+    justify-content: flex-end;
+}
+#navbarSupportedContent .navbar-nav .nav-item {
+    padding-left: 60px;
+}
