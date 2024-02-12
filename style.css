@@ -4,3 +4,9 @@
 #navbarSupportedContent .navbar-nav .nav-item {
     padding-left: 60px;
 }
+.rounded-6 {
+    border-radius: 15px;
+}
+.card-body {
+    padding: 0;
+}
